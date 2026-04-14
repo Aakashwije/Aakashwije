@@ -20,7 +20,7 @@
 - 🎓 Computer Science Undergraduate  
 - 🏗️ Passionate about **Backend Engineering & Distributed Systems**  
 - ⚙️ Building **APIs, Microservices & Scalable Systems**  
-- 🎯 Targeting **WSO2 Internship & Enterprise Roles**
+- 🎯 Targeting **Enterprise Roles**
 
 ---
 
