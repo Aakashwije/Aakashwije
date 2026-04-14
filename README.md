@@ -10,7 +10,7 @@
 ## ⚡ Live Dev Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Go+%7C+Ballerina;Future+WSO2+Engineer;Cloud+%2B+Microservices+Focused;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Go+%7C+Ballerina;Cloud+%2B+Microservices+Focused;Always+Learning+🚀" />
 </p>
 
 ---
