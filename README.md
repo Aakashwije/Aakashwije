@@ -233,7 +233,7 @@ philosophy: "Write code that scales. Ship systems that last."
   </picture>
 </div>
 
-> ⚙️ **To activate the snake:** Go to your GitHub profile repo → Actions → set up the [Platane/snk](https://github.com/Platane/snk) workflow, then push to generate `output/github-snake-dark.svg`.
+
 
 ---
 
