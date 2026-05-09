@@ -214,8 +214,7 @@ philosophy: "Write code that scales. Ship systems that last."
 
 </div>
 
-> 💡 **Note:** Replace `VIDEO_ID_1`, `VIDEO_ID_2`, etc. with your actual YouTube video IDs to activate the demo links.  
-> To embed a video, drag and drop an `.mp4` file directly into this README on GitHub to generate a hosted video link.
+
 
 ---
 
