@@ -1,295 +1,163 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--
+  ╔══════════════════════════════════════════════════════════════════════════╗
+  ║  アーカーシュ・ウィジェセカラ — GitHub profile                             ║
+  ║  Every ./assets/... image must be uploaded to this repo next to README.md ║
+  ║  (assets/*.svg and assets/headers/*.svg), or it shows as a broken image.   ║
+  ╚══════════════════════════════════════════════════════════════════════════╝
+-->
 
+<!-- 第一話 · HERO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=220&section=header&text=Aakash%20Wijesekara&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=18&descColor=00D9FF" width="100%" />
+  <img src="./assets/hero.svg" width="100%" alt="アーカーシュ・ウィジェセカラ — Aakash Wijesekara, Backend Engineer"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         LIVE TYPING ANIMATION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=680&height=55&lines=🚀+Building+Scalable+Backend+Systems;⚙️+Spring+Boot+|+Go+|+Ballerina+|+Microservices;☁️+Cloud-Native+%26+Distributed+Architecture;🔥+Enterprise-Grade+API+Development;🧠+Always+Learning%2C+Always+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=22&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&repeat=true&width=760&height=50&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A5%E3%81%A7%E3%81%99+%E2%80%94+Hello%2C+I%27m+Aakash;WSO2+%E3%81%A7%E4%BF%AE%E8%A1%8C%E4%B8%AD+%E2%80%94+leveling+up+at+WSO2;%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E2%80%94+Distributed+Systems;Spring+Boot+%C2%B7+Go+%C2%B7+Ballerina+%C2%B7+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9;%E4%B8%83%E8%BB%A2%E3%81%B3%E5%85%AB%E8%B5%B7%E3%81%8D+%E2%80%94+fall+seven+times%2C+deploy+eight;%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD+%E2%80%94+always+learning%2C+always+shipping" alt="こんにちは、アーカーシュです"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         BADGES ROW                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=aakashwije&style=for-the-badge&color=0A3D62&label=PROFILE+VIEWS&labelColor=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/aakashwije?style=for-the-badge&logo=github&color=0A3D62&labelColor=0D1117&label=FOLLOWERS"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/aakash-wijesekara-611588318">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://aakashwije.github.io/AAKASHWIJE_PORFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=aakashwije&style=for-the-badge&color=ff6ec7&label=EPISODE+VIEWS&labelColor=0b0a1a"/>
+  <img src="https://img.shields.io/github/followers/aakashwije?style=for-the-badge&logo=github&color=a855f7&labelColor=0b0a1a&label=NAKAMA"/>
+  <a href="https://wso2.com"><img src="https://img.shields.io/badge/GUILD-WSO2-ff7a1a?style=for-the-badge&labelColor=0b0a1a"/></a>
+  <a href="https://linkedin.com/in/aakash-wijesekara-611588318"><img src="https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0b0a1a"/></a>
+  <a href="https://aakashwije.github.io/AAKASHWIJE_PORFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Live-ff6ec7?style=for-the-badge&logo=vercel&logoColor=ff6ec7&labelColor=0b0a1a"/></a>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧑‍💻 `whoami`
-
-```yaml
-name:       Aakash Wijesekara          # alias: PodiWije
-role:       Software Engineering Undergraduate
-focus:      Backend Engineering · Cloud · Distributed Systems
-location:   Sri Lanka 🇱🇰
-email:      aakashwije92@gmail.com
-portfolio:  https://aakashwije.github.io/AAKASHWIJE_PORFOLIO/
-
-currently:
-  - building:   Scalable microservice architectures
-  - learning:   Spring Boot · Go · Ballerina · Flutter · Cloud
-  - targeting:  Enterprise Backend Engineering Roles
-
-strengths:
-  - REST API design & microservice orchestration
-  - Distributed systems & cloud-native architecture
-  - Problem solving with Python & Java
-  - Cross-platform mobile development with Flutter
-
-philosophy: "Write code that scales. Ship systems that last."
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK (CATEGORIZED)                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Arsenal
+<!-- 壱 · 状態 PLAYER STATUS -->
+<img src="./assets/headers/01-status.svg" width="100%" alt="壱 状態 — Player Status"/>
 
 <div align="center">
-
-### ⚙️ Backend & Systems
-<img src="https://skillicons.dev/icons?i=java,spring,go,python&theme=dark" />
-
-### 🌐 APIs & Integration
-<img src="https://skillicons.dev/icons?i=nodejs,graphql,postman,nginx&theme=dark" />
-
-### 📱 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react,angular,typescript,html,css&theme=dark" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" />
-
+  <img src="./assets/status.svg" width="100%" alt="Status window — Aakash Wijesekara (PodiWije), Backend Engineer, Guild: WSO2. Ability ranks: Backend S, API Design A+, Python A+, Cloud A, Frontend A, Mobile B+"/>
 </div>
 
-<br/>
+<!-- 弐 · 依頼書 QUEST BOARD -->
+<img src="./assets/headers/02-quest.svg" width="100%" alt="弐 依頼書 — Quest Board"/>
 
-<!-- Specialty highlight table -->
 <div align="center">
-
-| Domain | Technologies | Level |
-|--------|-------------|-------|
-| 🏗️ **Backend Engineering** | Java, Spring Boot, Go, Ballerina | `██████████` Expert |
-| 🌐 **API Development** | REST, Microservices, GraphQL | `█████████░` Advanced |
-| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes | `████████░░` Proficient |
-| 📱 **Mobile Dev** | Flutter, Dart | `███████░░░` Growing |
-| 🎨 **Frontend** | React, Angular, TypeScript | `████████░░` Proficient |
-| 🐍 **Scripting** | Python | `█████████░` Advanced |
-
+  <img src="./assets/quest.svg" width="100%" alt="Guild quest request — Guild: WSO2. Main quest: enterprise backend, integration and cloud-native engineering. Training: Spring Boot, Go, Ballerina, Flutter, Cloud. Status: accepted."/>
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS TRIPLE ROW                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+<!-- 参 · 物語 STORY ARCS -->
+<img src="./assets/headers/03-story.svg" width="100%" alt="参 物語 — Story Arcs"/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashwije&theme=github-dark-blue&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117&sideLabels=FFFFFF&dates=8B9BAB" height="180" />
+  <img src="./assets/story.svg" width="100%" alt="Story arcs — 1 The Awakening, 2 Training Arc, 3 Guild Arc at WSO2 (now airing), 4 coming soon"/>
 </div>
 
-<br/>
+<!-- 肆 · 武器庫 WEAPON ARSENAL -->
+<img src="./assets/headers/04-arsenal.svg" width="100%" alt="肆 武器庫 — Weapon Arsenal"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashwije&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashwije&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" height="180"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashwije&bg_color=0D1117&color=00D9FF&line=0A3D62&point=00D9FF&area=true&area_color=0A3D62&hide_border=true&custom_title=Aakash's%20Contribution%20Graph" width="95%"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB TROPHIES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashwije&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       PROJECT SHOWCASE WITH VIDEO DEMOS                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-> 🎬 Click the thumbnails below to watch project demo videos
-
-<div align="center">
-
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>🏗️ Microservice API Platform</h3>
-      <!-- Replace VIDEO_ID_1 with your YouTube video ID -->
-      <a href="https://youtu.be/VIDEO_ID_1" target="_blank">
-        <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p>Scalable Spring Boot microservice architecture with API Gateway, service discovery, and distributed tracing.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <h3>⚡ High-Performance Go Service</h3>
-      <!-- Replace VIDEO_ID_2 with your YouTube video ID -->
-      <a href="https://youtu.be/VIDEO_ID_2" target="_blank">
-        <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p>Ultra-fast REST API service built with Go, handling thousands of concurrent requests with minimal latency.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+    <td align="center" width="190"><b>主武器</b><br/><sub>MAIN WEAPONS · Backend</sub></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,go,python&theme=dark"/><br/>
+      <img src="https://img.shields.io/badge/Ballerina-20B6B0?style=for-the-badge&labelColor=0b0a1a"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>🟣 Ballerina Integration Hub</h3>
-      <!-- Replace VIDEO_ID_3 with your YouTube video ID -->
-      <a href="https://youtu.be/VIDEO_ID_3" target="_blank">
-        <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p>Enterprise integration layer using Ballerina for seamless B2B communication and cloud service orchestration.</p>
-      <img src="https://img.shields.io/badge/Ballerina-20B6B0?style=flat&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cloud-0A3D62?style=flat&logo=icloud&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <h3>📱 Flutter Cross-Platform App</h3>
-      <!-- Replace VIDEO_ID_4 with your YouTube video ID -->
-      <a href="https://youtu.be/VIDEO_ID_4" target="_blank">
-        <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p>Beautiful, performant mobile application connecting to a Spring Boot backend with real-time features.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-    </td>
+    <td align="center"><b>魔導書</b><br/><sub>SPELLBOOKS · APIs &amp; Integration</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,graphql,postman,nginx&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>式神</b><br/><sub>SHIKIGAMI · Frontend &amp; Mobile</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,ts,html,css&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>蔵</b><br/><sub>STOREHOUSE · Databases</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>天空</b><br/><sub>SKY REALM · Cloud &amp; DevOps</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark"/></td>
   </tr>
 </table>
-
 </div>
 
+<!-- 伍 · 日課 DAILY QUEST -->
+<img src="./assets/headers/05-daily.svg" width="100%" alt="伍 日課 — Daily Quest"/>
 
+<div align="center">
+  <img src="./assets/daily.svg" width="100%" alt="Daily quest — push meaningful commits, review pull requests, slay production bugs, learn one new thing, write the docs, drink coffee. Quest clear."/>
+</div>
 
----
+<!-- 陸 · 忍道 MY NINJA WAY -->
+<img src="./assets/headers/06-nindo.svg" width="100%" alt="陸 忍道 — My Ninja Way"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+```ts
+// 忍道 (nindō) — 俺の忍道: the ninja way of shipping software
+const nindo = {
+  naruto:  "まっすぐ自分の言葉は曲げねぇ — an API contract is a promise.",
+  luffy:   "ギア5 → horizontal autoscaling unlocked.",
+  gojo:    "領域展開 — Domain Expansion: Infinite Microservices.",
+  levi:    "掃除だ — clean code only. Tech debt gets cut down on sight.",
+  saitama: "一撃 — one commit, one punch, bug gone.",
+  jinwoo:  "起きろ (ARISE) — every crashed pod comes back stronger.",
+  senku:   "百億パーセント — ten billion percent sure? Write the test first.",
+} as const;
+```
 
-## 🐍 Contribution Snake
+<!-- 漆 · 戦闘力 POWER LEVEL -->
+<img src="./assets/headers/07-power.svg" width="100%" alt="漆 戦闘力 — Power Level"/>
+
+<p align="center"><b>スカウター測定中…… 戦闘力、9000 以上！</b><br/><sub>scouter reading in progress — it's over 9000 (eventually)</sub></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aakashwije&hide_border=true&border_radius=14&background=0B0A1A&stroke=FF6EC7&ring=FF6EC7&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6EC7&sideLabels=00E5FF&dates=A9A3CF" height="180" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashwije&show_icons=true&hide_border=true&border_radius=14&bg_color=0b0a1a&title_color=ff6ec7&icon_color=00e5ff&text_color=e6e6fa&ring_color=ff6ec7&include_all_commits=true&count_private=true&custom_title=%E6%88%A6%E9%97%98%E5%8A%9B%20%C2%B7%20Power%20Level" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashwije&layout=compact&langs_count=8&hide_border=true&border_radius=14&bg_color=0b0a1a&title_color=ff6ec7&text_color=e6e6fa&custom_title=%E5%B1%9E%E6%80%A7%20%C2%B7%20Elemental%20Affinities" height="180" alt="Top languages"/>
+</div>
+
+<!-- 捌 · 称号 TITLES UNLOCKED -->
+<img src="./assets/headers/08-titles.svg" width="100%" alt="捌 称号 — Titles Unlocked"/>
+
+<div align="center">
+  <img src="./assets/titles.svg" width="100%" alt="Titles — Backend Swordsman, API Summoner, Cloud Walker, Speed Demon, Guild Member (WSO2), Polyglot Ninja"/>
+</div>
+
+<!-- 玖 · 御神籤 OMIKUJI -->
+<img src="./assets/headers/09-omikuji.svg" width="100%" alt="玖 御神籤 — Dev Fortune"/>
+
+<div align="center">
+  <img src="./assets/omikuji.svg" width="100%" alt="Omikuji — today's dev fortune. 大吉: zero merge conflicts today."/>
+</div>
+
+<!-- 拾 · 草 THE GRASS EATER -->
+<img src="./assets/headers/10-grass.svg" width="100%" alt="拾 草 — The Grass Eater"/>
+
+<p align="center"><b>日本ではコントリビューショングラフを「草」と呼ぶ。この蛇はそれを食べる。</b><br/><sub>in Japan the contribution graph is called 草 (kusa, "grass") — this snake eats it</sub></p>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake-dark.svg" width="100%"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
-
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT SECTION                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 Let's Connect
+<!-- 拾壱 · 縁 LET'S CONNECT -->
+<img src="./assets/headers/11-connect.svg" width="100%" alt="拾壱 縁 — Let's Connect"/>
 
 <div align="center">
-
-  <a href="https://linkedin.com/in/aakash-wijesekara-611588318">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aakashwije92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://aakashwije.github.io/AAKASHWIJE_PORFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/aakashh_.04">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/@aakash_20240843">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://fb.com/aakash wijesekara">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
+  <a href="https://linkedin.com/in/aakash-wijesekara-611588318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aakashwije92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://aakashwije.github.io/AAKASHWIJE_PORFOLIO/"><img src="https://img.shields.io/badge/Portfolio-0b0a1a?style=for-the-badge&logo=vercel&logoColor=ff6ec7"/></a>
+  <a href="https://instagram.com/aakashh_.04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/@aakash_20240843"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+  <a href="https://fb.com/aakash wijesekara"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
-<br/>
+<p align="center"><b>いつでも気軽に声をかけてね。</b><br/><sub>always up for collaborations, open-source quests &amp; epic backend problems — reach out anytime</sub></p>
 
+<!-- つづく · FOOTER -->
 <div align="center">
-  <i>⚡ Open to enterprise backend roles, collaborations & open-source contributions — reach out anytime!</i>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         QUOTE / FOOTER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20code%20is%20the%20code%20that%20doesn%27t%20need%20to%20be%20written.&author=PodiWije" width="80%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A3D62,100:0D1117&height=120&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt="「The best code is the code that doesn't need to be written.」 — PodiWije · またね！ To be continued…"/>
 </div>
