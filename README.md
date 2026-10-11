@@ -29,7 +29,7 @@
 <img src="./assets/headers/01-status.svg" width="100%" alt="壱 状態 — Player Status"/>
 
 <div align="center">
-  <img src="./assets/status.svg" width="100%" alt="Status window — Aakash Wijesekara (PodiWije), Backend Engineer, Guild: WSO2. Ability ranks: Backend S, API Design A+, Python A+, Cloud A, Frontend A, Mobile B+"/>
+  <img src="./assets/status.svg" width="100%" alt="Status window — Aakash Wijesekara (PodiWije), Software Engineer, Guild: WSO2. Ability ranks: Backend S, API Design A+, Python A+, Cloud A, Frontend A, Mobile B+"/>
 </div>
 
 <!-- 弐 · 依頼書 QUEST BOARD -->
